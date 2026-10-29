@@ -1,0 +1,5 @@
+Computer Programming 12 - Fall 2026
+Language: Python 3
+Editor: PyCharm
+CCC source: DMOJ (dmoj.ca)
+See README.md for problem list and running instructions.
